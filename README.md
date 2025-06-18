@@ -100,8 +100,7 @@ J1X:60 J1Y:72 J2X:124 J2Y:131 B1:0 B2:1 SND:1
 
 - `main.c` – PIC source code with config  
 - `main.py` – Python GUI interface  
-- `README.md` – This documentation  
-- `MPLABXProjects/` – Optional project files  
+- `README.md` – This documentation    
 - `hex/` – Compiled hex file  
 
 ---
